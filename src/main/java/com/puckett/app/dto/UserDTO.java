@@ -13,7 +13,6 @@ import javax.validation.constraints.Size;
 
 
 @Data
-@Document
 public class UserDTO {
 
     private String firstName;

@@ -12,10 +12,9 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
 @Data
-@Document
 public class PuckettDTO {
 
     private String description;
-    private String imagesDotCom;
+    private String images;
 
 }
