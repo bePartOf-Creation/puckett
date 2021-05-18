@@ -16,6 +16,6 @@ import javax.validation.constraints.NotNull;
 public class PuckettDTO {
 
     private String description;
-    private String image;
+    private String imagesDotCom;
 
 }
